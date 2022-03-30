@@ -1,2 +1,2 @@
 # Flash White
-A minimal startpage with search bar and some shortcuts.
+A minimal Firefox startpage with search bar and some shortcuts.
